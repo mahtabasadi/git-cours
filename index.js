@@ -11,5 +11,4 @@ console.log('hi');
 console.log('mahtab');
 console.log('mahtab mim !!! .........');
 console.log('mahtab mim !!! .........');
-console.log('mahtab mim !!! .........');
-console.log('mahtab mim !!! .........');
+console.log('hi my gorgeous friends .....');
