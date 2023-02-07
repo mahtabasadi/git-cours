@@ -4,7 +4,6 @@ console.log('good morning');
 console.log("my friend");
 console.log("my life");
 
-
 // function .......
 
 console.log('hi');
